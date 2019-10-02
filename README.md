@@ -1,2 +1,2 @@
-# DataViz
-Hmwk for Data Visualization
+# DataAnalytics
+Homework for Week One
